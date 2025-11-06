@@ -7,7 +7,7 @@ sit a while, read a line or two,
 and perhaps you’ll glimpse the strange poetry  
 that hides within circuits and syntax.  
 
-i’m mazeed — though most know me as **ace**.
+i’m mazeed — though i use pseudonym **ace**.
 
 <!--
 **pixelatedseraph/pixelatedseraph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
