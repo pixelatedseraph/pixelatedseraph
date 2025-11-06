@@ -1,4 +1,13 @@
-## Hi there 👋
+### greetings, stranger.  
+it seems you’ve wandered into my digital notebook —  
+a collection of ideas, thoughts, and messy code that somehow *works*.  
+where logic meets hardware, and late-night curiosities turn into cli tools.  
+
+sit a while, read a line or two,  
+and perhaps you’ll glimpse the strange poetry  
+that hides within circuits and syntax.  
+
+i’m mazeed — though most know me as **ace**.
 
 <!--
 **pixelatedseraph/pixelatedseraph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
