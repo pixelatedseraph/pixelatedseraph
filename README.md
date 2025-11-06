@@ -1,5 +1,5 @@
 ### greetings, stranger.  
-it seems like you’ve wandered into my digital notebook —  
+it seems you’ve wandered into my digital notebook —  
 a collection of ideas, thoughts, and messy code that somehow *works*.  
 where logic meets hardware, and late-night curiosities turn into cli tools.  
 
@@ -7,9 +7,11 @@ sit a while, read a line or two,
 and perhaps you’ll glimpse the strange poetry  
 that hides within circuits and syntax.  
 
-i’m mazeed — though i often go by the pseudonym **ace**.
+i’m mazeed — though i often go by the pseudonym **ace**.  
 
-### philosophy & beliefs  
+---
+
+### 🕯️ philosophy & beliefs  
 
 i strive to build programs that are free — not just in cost, but in spirit.  
 though i hold no hatred for proprietary software, i find solace in foss —  
@@ -20,18 +22,22 @@ it is a craft — a bridge between machine and mind.
 each line a brushstroke, each loop a heartbeat.  
 
 in the end, programming is my love letter to the machine —  
-a dialogue between silicon and my soul.
+a dialogue between silicon and my soul.  
 
-###  what i build  
+---
+
+### ⚙️ what i build  
 
 i build for the sake of satisfying my soul — and for the thrill of understanding.  
-most of my creations live close to the metal: written in c, c++, or assembly.
+most of my creations live close to the metal: written in c, c++, or assembly.  
 c is my native tongue — my chef’s knife, my instrument of choice.  
-with it, i bulid what i dream of.
+with it, i build what i dream of.  
 
-### closing thoughts  
+---
 
-in the end, i build not for fame, nor fortune — but for the joy of creation.  
+### 🌙 closing thoughts  
+
+in the end, i build not for fame nor fortune — but for the joy of creation.  
 each project, a quiet dialogue with the machine;  
 each bug, a lesson written in binary.  
 
@@ -41,8 +47,9 @@ deserves to be understood, shaped, and loved.
 
 so if you’ve read this far, stranger — thank you.  
 perhaps, somewhere in this digital haze,  
-you too may join me in this journey :D
-                                      -mazeed
+you too may join me in this journey.  
+
+— **mazeed**
 
 <!--
 **pixelatedseraph/pixelatedseraph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
