@@ -26,7 +26,6 @@ a dialogue between silicon and my soul.
 
 i build for the sake of satisfying my soul — and for the thrill of understanding.  
 most of my creations live close to the metal: written in c, c++, or assembly.
-although i am quite proficient in other languages.
 c is my native tongue — my chef’s knife, my instrument of choice.  
 with it, i bulid what i dream of.
 
