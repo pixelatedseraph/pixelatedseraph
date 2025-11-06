@@ -19,12 +19,31 @@ to me, programming is not a job nor a ritual of syntax;
 it is a craft — a bridge between machine and mind.  
 each line a brushstroke, each loop a heartbeat.  
 
-as much as i cherish the gnu philosophy, i remain pragmatic —  
-freedom means choice, not dogma.  
-i see code as art, logic as rhythm, and systems as living canvases.  
-
 in the end, programming is my love letter to the machine —  
 a dialogue between silicon and my soul.
+
+###  what i build  
+
+i build for the sake of satisfying my soul — and for the thrill of understanding.  
+most of my creations live close to the metal: written in c, c++, or assembly.
+although i am quite proficient in other languages;
+c is my native tongue — my chef’s knife, my instrument of choice.  
+with it, i bulid what i dream of.
+
+### closing thoughts  
+
+in the end, i build not for fame, nor fortune — but for the joy of creation.  
+each project, a quiet dialogue with the machine;  
+each bug, a lesson written in binary.  
+
+to me, code is a form of art —  
+and every system, no matter how small,  
+deserves to be understood, shaped, and loved.  
+
+so if you’ve read this far, stranger — thank you.  
+perhaps, somewhere in this digital haze,  
+you too may join me in this journey :D
+                                      -mazeed
 
 <!--
 **pixelatedseraph/pixelatedseraph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
