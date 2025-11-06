@@ -47,7 +47,7 @@ deserves to be understood, shaped, and loved.
 
 so if you’ve read this far, stranger — thank you.  
 perhaps, somewhere in this digital haze,  
-you too may join me in this journey.  
+you too may join me in this journey. :D  
 
 — **mazeed**
 
